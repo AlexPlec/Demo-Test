@@ -2,7 +2,6 @@
 
 Simple learning projects
 
-# How to start
 ## Technology list
 - CS (EntityFramework, ASP.NET Core, SQLite)
 - JavaScript (Node.js, SQLite, Vue.js)
