@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\accht\\Programs\\Projects\\testCS\\CsDB\\CsDB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CsDB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CsDB.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CsDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CsDB.props",
+      "PackagePath": "build\\CsDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CsDB.props",
+      "PackagePath": "buildMultiTargeting\\CsDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CsDB.props",
+      "PackagePath": "buildTransitive\\CsDB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

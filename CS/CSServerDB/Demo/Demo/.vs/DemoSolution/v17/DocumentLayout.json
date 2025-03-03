@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Migrations\\20250110145406_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestCSApp\\Migrations\\20250110145406_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\accht\\Programs\\Projects\\GuessTheNumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\accht\\Programs\\Projects\\DbInterractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\games\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\games\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\games\\guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\games\\guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\db\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\db\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\models\\blackjackuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\models\\blackjackuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\models\\guessthenumberuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\models\\guessthenumberuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|c:\\users\\accht\\programs\\projects\\testcs\\testcsapp\\testcsapp\\ui\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|TestCSApp\\Demo.csproj|solutionrelative:testcsapp\\ui\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blackjack.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Games\\Blackjack.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Games\\Blackjack.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Games\\Blackjack.cs",
+              "RelativeToolTip": "TestCSApp\\Games\\Blackjack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:42:40.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuessTheNumber.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Games\\GuessTheNumber.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Games\\GuessTheNumber.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Games\\GuessTheNumber.cs",
+              "RelativeToolTip": "TestCSApp\\Games\\GuessTheNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:42:06.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\UI\\MenuItem.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\UI\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\UI\\MenuItem.cs",
+              "RelativeToolTip": "TestCSApp\\UI\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:16:54.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Game.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Game.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Game.cs",
+              "RelativeToolTip": "TestCSApp\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:39:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBAPI.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\DB\\DBAPI.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\DB\\DBAPI.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\DB\\DBAPI.cs",
+              "RelativeToolTip": "TestCSApp\\DB\\DBAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T20:16:59.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlackjackUser.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Models\\BlackjackUser.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Models\\BlackjackUser.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Models\\BlackjackUser.cs",
+              "RelativeToolTip": "TestCSApp\\Models\\BlackjackUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:38:24.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GuessTheNumberUser.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Models\\GuessTheNumberUser.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Models\\GuessTheNumberUser.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Models\\GuessTheNumberUser.cs",
+              "RelativeToolTip": "TestCSApp\\Models\\GuessTheNumberUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:44:56.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.csproj",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Demo.csproj",
+              "RelativeDocumentMoniker": "TestCSApp\\Demo.csproj",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Demo.csproj",
+              "RelativeToolTip": "TestCSApp\\Demo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T12:04:05.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameMenu.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\UI\\GameMenu.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\UI\\GameMenu.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\UI\\GameMenu.cs",
+              "RelativeToolTip": "TestCSApp\\UI\\GameMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T09:03:48.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250110145406_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Migrations\\20250110145406_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TestCSApp\\Migrations\\20250110145406_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\testCS\\TestCSApp\\TestCSApp\\Migrations\\20250110145406_InitialCreate.cs",
+              "RelativeToolTip": "TestCSApp\\Migrations\\20250110145406_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:54:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuessTheNumber.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\GuessTheNumber.cs",
+              "RelativeDocumentMoniker": "..\\..\\GuessTheNumber.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\GuessTheNumber.cs",
+              "RelativeToolTip": "..\\..\\GuessTheNumber.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:41:38.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInterractions.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\DbInterractions.cs",
+              "RelativeDocumentMoniker": "..\\..\\DbInterractions.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\DbInterractions.cs",
+              "RelativeToolTip": "..\\..\\DbInterractions.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T14:41:38.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

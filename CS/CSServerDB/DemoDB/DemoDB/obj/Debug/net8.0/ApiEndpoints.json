@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "CsDB.Controllers.TasksController",
+    "Method": "GetBlackjackData",
+    "RelativePath": "api/Tasks/Blackjack",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CsDB.Controllers.TasksController",
+    "Method": "SaveBlackjackResult",
+    "RelativePath": "api/Tasks/Blackjack",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "CsDB.Models.BlackjackUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CsDB.Controllers.TasksController",
+    "Method": "GetGuessTheNumberData",
+    "RelativePath": "api/Tasks/GuessTheNumber",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CsDB.Controllers.TasksController",
+    "Method": "SaveGuessTheNumberResult",
+    "RelativePath": "api/Tasks/GuessTheNumber",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "CsDB.Models.GuessTheNumberUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

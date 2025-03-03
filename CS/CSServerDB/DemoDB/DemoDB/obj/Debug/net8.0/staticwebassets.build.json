@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "UUbhuvJhwwwvPzS2zHyUgBotHgWCCNkLbQ92k/GplwI=",
+  "Source": "CsDB",
+  "BasePath": "_content/CsDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CsDB\\wwwroot",
+      "Source": "CsDB",
+      "ContentRoot": "C:\\Users\\accht\\Programs\\Projects\\testCS\\CsDB\\CsDB\\wwwroot\\",
+      "BasePath": "_content/CsDB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\db\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\db\\dbapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\games\\guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\games\\guessthenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\models\\blackjackuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\models\\blackjackuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\games\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\games\\blackjack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\models\\guessthenumberuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\models\\guessthenumberuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|c:\\users\\accht\\programs\\projects\\demo test\\cs\\csserverdb\\demo\\demo\\ui\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C9E2B3-5F68-4819-91D6-CAD23FC02745}|Demo\\Demo.csproj|solutionrelative:demo\\ui\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessTheNumber.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Games\\GuessTheNumber.cs",
+              "RelativeDocumentMoniker": "Demo\\Games\\GuessTheNumber.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Games\\GuessTheNumber.cs",
+              "RelativeToolTip": "Demo\\Games\\GuessTheNumber.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:19:10.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBAPI.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\DB\\DBAPI.cs",
+              "RelativeDocumentMoniker": "Demo\\DB\\DBAPI.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\DB\\DBAPI.cs",
+              "RelativeToolTip": "Demo\\DB\\DBAPI.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwD4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:18:58.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Blackjack.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Games\\Blackjack.cs",
+              "RelativeDocumentMoniker": "Demo\\Games\\Blackjack.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Games\\Blackjack.cs",
+              "RelativeToolTip": "Demo\\Games\\Blackjack.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:17:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GuessTheNumberUser.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Models\\GuessTheNumberUser.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\GuessTheNumberUser.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Models\\GuessTheNumberUser.cs",
+              "RelativeToolTip": "Demo\\Models\\GuessTheNumberUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:17:53.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackjackUser.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Models\\BlackjackUser.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\BlackjackUser.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Models\\BlackjackUser.cs",
+              "RelativeToolTip": "Demo\\Models\\BlackjackUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:17:52.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\UI\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Demo\\UI\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\UI\\MenuItem.cs",
+              "RelativeToolTip": "Demo\\UI\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:17:36.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameMenu.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\UI\\GameMenu.cs",
+              "RelativeDocumentMoniker": "Demo\\UI\\GameMenu.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\UI\\GameMenu.cs",
+              "RelativeToolTip": "Demo\\UI\\GameMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:17:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Game.cs",
+              "RelativeDocumentMoniker": "Demo\\Game.cs",
+              "ToolTip": "C:\\Users\\accht\\Programs\\Projects\\Demo Test\\CS\\CSServerDB\\Demo\\Demo\\Game.cs",
+              "RelativeToolTip": "Demo\\Game.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:16:32.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
